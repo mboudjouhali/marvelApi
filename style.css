@@ -1,0 +1,44 @@
+* {
+    font-family: 'Open Sans', sans-serif; 
+}
+
+#result {
+    margin:0 25%;
+    text-align:center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color:white;
+}
+
+body {
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+.center {
+    text-align:center;
+}
+
+ul {
+    background-color:white;
+    list-style:none;
+}
+
+ul li {
+ text-align:left;   
+}
+
+h1 a { 
+    color: inherit; 
+    padding:5px 15px;
+} 
+
+h1 a:hover {
+ text-decoration: none;
+    border:1px solid black;
+}
+
+.ui-widget {
+    margin-top:20px;
+}
